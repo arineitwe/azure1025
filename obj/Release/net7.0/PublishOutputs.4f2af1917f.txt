@@ -1,0 +1,7 @@
+C:\azure\bin\Release\net7.0\publish\azure.exe
+C:\azure\bin\Release\net7.0\publish\appsettings.Development.json
+C:\azure\bin\Release\net7.0\publish\appsettings.json
+C:\azure\bin\Release\net7.0\publish\azure.dll
+C:\azure\bin\Release\net7.0\publish\azure.deps.json
+C:\azure\bin\Release\net7.0\publish\azure.runtimeconfig.json
+C:\azure\bin\Release\net7.0\publish\azure.pdb

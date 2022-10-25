@@ -1,0 +1,2 @@
+C:\azure\bin\Debug\net7.0\azure.exe
+C:\azure\bin\Debug\net7.0\azure.dll
